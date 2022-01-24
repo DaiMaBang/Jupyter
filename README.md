@@ -31,7 +31,8 @@ http://www.mp58.net/jupytercn.html
 - 已经自带pandas,numpy等库，类似Anaconda模式，把大量常用库预先安装打包在一起，不用再考虑相互兼容
 - 完全中文界面，改进的操作UI，让其更适合初学者学习或者科技工作者做统计研究使用
 - 内置pandas使用教程和基本python教程
+- 
 - ![推广号](https://user-images.githubusercontent.com/47958404/150715982-e13c9ae7-73a2-4f02-bbee-9b3ef7b87e2b.png)
-
+- ![主页](https://user-images.githubusercontent.com/47958404/150747530-109ddc9d-6db2-4c0d-aa83-8b3a3ce6f230.png)
 
 
