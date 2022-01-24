@@ -21,7 +21,7 @@ http://www.mp58.net/jupytercn.html
 
 百度网盘下载地址
 
-链接: https://pan.baidu.com/s/1rQH8KmFtjRzCvxt2zTzttg 提取码: tj5u
+https://pan.baidu.com/s/1lbC9PnNvPhNcvt1Toj0gBQ 提取码: t4w2
 
 
 #### 特点优势
