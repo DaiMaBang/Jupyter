@@ -21,7 +21,7 @@ http://www.mp58.net/jupytercn.html
 
 百度网盘下载地址
 
-链接: https://pan.baidu.com/s/1sSw-5aBTM3FGt2NpSFQphQ 提取码: 53n3
+链接: https://pan.baidu.com/s/1rQH8KmFtjRzCvxt2zTzttg 提取码: tj5u
 
 
 #### 特点优势
@@ -31,6 +31,7 @@ http://www.mp58.net/jupytercn.html
 - 已经自带pandas,numpy等库，类似Anaconda模式，把大量常用库预先安装打包在一起，不用再考虑相互兼容
 - 完全中文界面，改进的操作UI，让其更适合初学者学习或者科技工作者做统计研究使用
 - 内置pandas使用教程和基本python教程
-- 
-![带QQ群](https://user-images.githubusercontent.com/47958404/150316296-a8843b05-e848-4405-b32a-024adce0082c.png)
+- ![推广号](https://user-images.githubusercontent.com/47958404/150715982-e13c9ae7-73a2-4f02-bbee-9b3ef7b87e2b.png)
+
+
 
