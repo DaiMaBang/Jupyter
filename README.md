@@ -23,6 +23,8 @@ http://www.mp58.net/jupytercn.html
 
 https://pan.baidu.com/s/1lbC9PnNvPhNcvt1Toj0gBQ 提取码: t4w2
 
+官网地址
+http://www.mp58.net
 
 #### 特点优势
 
