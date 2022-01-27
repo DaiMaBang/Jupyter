@@ -4,7 +4,6 @@
 Jupyter中文集成版，无需单独安装python，Jupyter 和一系列的复杂配置
 python内核3.8
 
-
 #### 软件架构
 桌面端程序 
 
