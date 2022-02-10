@@ -19,7 +19,7 @@ http://www.mp58.net/jupytercn.html
 
 百度网盘下载地址
 
-https://pan.baidu.com/s/1lbC9PnNvPhNcvt1Toj0gBQ 提取码: t4w2
+链接: https://pan.baidu.com/s/1HBxBtLacx4eQqZ37xOxvuw 提取码: 3aqk
 
 官网地址
 http://www.mp58.net
