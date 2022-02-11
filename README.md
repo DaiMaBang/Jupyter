@@ -1,4 +1,4 @@
-# Jupyter中文集成版
+# Jupyter中文集成版(Python整合版)
 
 #### 介绍
 Jupyter中文集成版，无需单独安装python，Jupyter 和一系列的复杂配置
